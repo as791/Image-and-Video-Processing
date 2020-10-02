@@ -9,3 +9,7 @@ This repo includes the tutorial codes written in MATLAB for Image & Video Proces
 1) Implementation of Marr-Hildreth Edge detector and Canny Edge detector on given input image.
 2) Peform phase only reconstruction using two images.
 3) Compute 2D fourier spectrum of an image and center the magnitude spectrum and apply log transformation.
+### Tutorial-3
+1) Perform Laplace based sharpening in the frequency domain.
+2) Perform Gaussian and Butterworth based Lowpass and Highpass filtering in a fingerprint image in frequency domain.
+3) Take a noisy fingerprint image, then preprocess the image using different morphological operators.
