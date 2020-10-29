@@ -13,3 +13,5 @@ This repo includes the tutorial codes written in MATLAB for Image & Video Proces
 1) Perform Laplace based sharpening in the frequency domain.
 2) Perform Gaussian and Butterworth based Lowpass and Highpass filtering in a fingerprint image in frequency domain.
 3) Take a noisy fingerprint image, then preprocess the image using different morphological operators.
+### Tutorial-4
+1) Take a fingerprint image, add salt and pepper noise. Perform the median filtering and contraharmonic mean filtering. Show the effect of the wrong choice of polarity in the order Q.
