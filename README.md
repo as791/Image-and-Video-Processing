@@ -15,3 +15,6 @@ This repo includes the tutorial codes written in MATLAB for Image & Video Proces
 3) Take a noisy fingerprint image, then preprocess the image using different morphological operators.
 ### Tutorial-4
 1) Take a fingerprint image, add salt and pepper noise. Perform the median filtering and contraharmonic mean filtering. Show the effect of the wrong choice of polarity in the order Q.
+### Tutorial-5
+1) Assume degradation model derived for motion blurring, apply it to any good quality image to create the distorted image. Then apply full inverse filtering, radially limited inverse filtering and Wiener filtering to restore the original image.
+2) While capturing any face image, ask the person to move, the resultant image will be distorted, then try the above degaration model to restore the face image.
